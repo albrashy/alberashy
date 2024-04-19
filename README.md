@@ -33,7 +33,7 @@
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![GraphQL](https://img.shields.io/badge/-GraphQL-05122A?style=flat&logo=GraphQL)&nbsp;
 ![SqlServer](https://img.shields.io/badge/-SqlServer-05122A?style=flat&logo=SqlServer)&nbsp;
-![C#](https://img.shields.io/badge/-C#%20-05122A?style=flat&logo=C#)&nbsp;
+![CSharp](https://img.shields.io/badge/-C#%20-05122A?style=flat&logo=CSharp)&nbsp;
 
 
 
